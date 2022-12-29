@@ -13,7 +13,6 @@ body{
   padding: 0 10px;
   min-height: 100vh;
   background: #333;
-  box-shadow: -3px -4px -4px rgba(255, 255, 255, 0.583);
 }
 .container{
   max-width: 690px;
