@@ -12,7 +12,8 @@ body{
   justify-content: center;
   padding: 0 10px;
   min-height: 100vh;
-  background: #5372F0;
+  background: #333;
+  box-shadow: -3px -4px -4px rgba(255, 255, 255, 0.583);
 }
 .container{
   max-width: 690px;
@@ -122,7 +123,7 @@ body{
   margin-top: 20px;
   font-size: 17px;
   border-radius: 5px;
-  background: #5372F0;
+  background: #333;
 }
 @media (max-width: 660px){
   .container{
